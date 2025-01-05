@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid-size-btn {
+    height: 100px;
+    width: 200px;
+    font-size: 30px;
+}
+
+.grid-child:hover {
+    background-color: var(--td-background-color);
+    transition: ease;
+}
+
+.grid-child:not(:hover) {
+    background-color: white;
+    transition: background-color 1s ease-in-out;
+}
