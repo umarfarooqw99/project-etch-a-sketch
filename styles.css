@@ -37,6 +37,7 @@ h1 {
     flex-wrap: wrap;
     margin-top: 50px;
     justify-self: center;
+    margin-bottom: 50px;
 }
 
 .grid-size-btn {
