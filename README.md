@@ -6,3 +6,4 @@
     * grid size range (1-100)
     * dynamically color generation on mouse hover
 * source: the odin project (foundations)
+* link: https://umarfarooqw99.github.io/project-etch-a-sketch/
