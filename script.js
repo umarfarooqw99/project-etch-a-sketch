@@ -5,7 +5,6 @@ function generateGrid(size) {
     gridContainer.innerHTML = '';
     gridContainer.style.height = "600px"
     gridContainer.style.width = "600px"
-    // gridContainer.style.border = "1px solid"
     for (let i = 0; i < size * size; i++) {
         const gridChild = document.createElement('div');
         gridChild.classList = "grid-child"
